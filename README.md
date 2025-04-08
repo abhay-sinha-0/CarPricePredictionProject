@@ -50,3 +50,23 @@ Seaborn
 Streamlit / Flask (for deployment)
 
 Tools: Jupyter Notebook / VS Code
+
+
+📁 Project Structure
+car-price-prediction/
+│
+├── data/
+│   └── car_data.csv
+│
+├── notebooks/
+│   └── model_training.ipynb
+│
+├── app/
+│   └── app.py                # Optional - Streamlit/Flask app
+│
+├── models/
+│   └── car_price_model.pkl
+│
+├── README.md
+└── requirements.txt
+
