@@ -55,6 +55,7 @@ Tools: Jupyter Notebook / VS Code
 📁 Project Structure
 
 car-price-prediction/
+
 │
 ├── data/
 │   └── car_data.csv
