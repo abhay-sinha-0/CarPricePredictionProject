@@ -53,14 +53,12 @@ Tools: Jupyter Notebook / VS Code
 
 
 # output
-**Run Main.py**<br>
+**Run carpriceprediction3.py**<br>
+it will open a window like
 <img src="data/Screenshot 2025-04-29 155838.png">
 <br>
-go to the url http://127.0.0.1:5000
-it will open a window like <br><br>
-<img src="https://github.com/abhay-sinha-0/Phishing__Doamain_Detection/blob/master/__pycache__/assets/Screenshot%202025-04-25%20200856.png"><br><br>
-enter url then internally it will go to machune learning model and then it test the url that given url is phishing domain or not
-<br><br>
-<img src="https://github.com/abhay-sinha-0/Phishing__Doamain_Detection/blob/master/__pycache__/assets/Screenshot%202025-04-25%20200923.png">
+ <br><br>
+<img src="data/Screenshot 2025-04-29 160018.png"><br><br>
+<br>
 
 
