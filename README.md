@@ -54,7 +54,7 @@ Tools: Jupyter Notebook / VS Code
 
 # output
 **Run Main.py**<br>
-<img src="https://github.com/abhay-sinha-0/Phishing__Doamain_Detection/blob/master/__pycache__/assets/Screenshot%202025-04-25%20214304.png">
+<img src="data/Screenshot 2025-04-29 155838.png">
 <br>
 go to the url http://127.0.0.1:5000
 it will open a window like <br><br>
