@@ -57,7 +57,9 @@ Tools: Jupyter Notebook / VS Code
 it will open a window like
 <img src="data/Screenshot 2025-04-29 155838.png">
 <br>
+
  <br><br>
+ Enter the feature of car and click the pridict button and show the output.
 <img src="data/Screenshot 2025-04-29 160018.png"><br><br>
 <br>
 
